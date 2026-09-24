@@ -115,12 +115,19 @@ This can be found in the jupyter notebok labelled "household_debt_analysis.ipynb
 # Skills
 
 Skills demonstrated:
+
 • Data cleaning and transformation
+
 • Data visualisation
+
 • Correlation analysis
+
 • Python programming
+
 • Interpretation of data and economic trends
+
 • Data collection and preparention
+
 
 # Author
 
